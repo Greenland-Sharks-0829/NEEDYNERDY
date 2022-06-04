@@ -7,7 +7,7 @@
 All books mentioned below are downloadable at https://zh.z-lib.org/
 
 ##### Math Prep
->[!summary] Textbook for quick reference, not for systematic reading
+>[!notes] Textbook for quick reference, not for systematic reading
 > *if a quick brief on calculus is needed, search on these websites*:
  https://steadyhq.com/en/brightsideofmaths/about; 
  https://brilliant.org/home/#; 
@@ -23,7 +23,7 @@ All books mentioned below are downloadable at https://zh.z-lib.org/
 
 ##### Microeconomics
 
->[!summary] Textbook Chapters (Graduate Level)
+>[!notes] Textbook Chapters (Graduate Level)
 >Advanced Microeconomic Theory, 3rd Edition, Geoffrey A. Jehle, Philip J. Reny, ==Chapter 1, 3, 4, 5==
 >*Got extra time*: Microeconomic theory, Andreu Mas-Colell, Michael D. Whinston, Jerry R. Green, ==Chapter 1-3, Chapter 5-6, Chapter 10-11, Chapter 15-16==.
 >*backup undergraduate level reference*: Intermediate Microeconomics with Calculus, Varian.
@@ -31,7 +31,7 @@ All books mentioned below are downloadable at https://zh.z-lib.org/
 
 
 ##### Macroeconomics
->[!summary] Textbook Chapters (Graduate Level)
+>[!notes] Textbook Chapters (Graduate Level)
 > *If New Keynesian Framework (most likely)*: Macroeconomic Fluctuations and Policies, Challe, E., 2019, ==Chapter 2,3,4,6,7==.
 > *For Dynamic Optimisation Counterpart*: 
 *i)* Elements of Dynamic Optimisation, Alpha C. Chiang. ==Really just a math book without the context of macro, though I believe you can use it just for the method, plus it's the simplest and clearest you could find on this topic.==
@@ -46,7 +46,7 @@ All books mentioned below are downloadable at https://zh.z-lib.org/
 
 
 ##### Asset Pricing
->[!summary] Textbook Chapters
+>[!notes] Textbook Chapters
 > Dynamic Macroeconomic Theory, Sargent, ==Chapter 1 and 3==.
 > Singleton, K.J., 2009. Empirical dynamic asset pricing: model specification and econometric assessment. Princeton University Press., ==don't have to read, just have it as a reference in case you need it for project ideas.==.
 
@@ -57,7 +57,7 @@ All books mentioned below are downloadable at https://zh.z-lib.org/
 > 
 
 ##### Econometrics
->[!summary] Some Programming References:
+>[!notes] Some Programming References:
 >*if it's standard graduate level ecoometrics, use*:  Econometrics, Hansen, ==just for quick reference, a bit hard to swallow but it's the best of all==.
 > *For R programming*: https://www.econometrics-with-r.org/index.html
 > *For Time Series theoreticals*: 
@@ -68,7 +68,7 @@ All books mentioned below are downloadable at https://zh.z-lib.org/
 > *For general stats background quick reference*:  All of Statistics: A Concise Course in Statistical Inference, Larry A. Wasserman; three links from **Math Prep** section are also good.
 
 
->[!warning] Piece of advice
+>[!notes] Piece of advice
 >- Most likely the focus will be on **time series analysis**, if not (the case wthere it is a standard graduate level econometrics, find some lecture notes, check: http://econphd.econwiki.com/notes.htm, some of the links are not available anymore, but these are the examples you can choose from); even if it's not the focus of Econometrics, it will be the focus of **Empirical Finance**.
 >- **GITHUB & Stackoverflow IS YOUR FRIEND!!!**, -- search for examples before you start writing any lines of codes.
 >- **Don't** get start too soon for previews of Econometrics, unlike macro or micro, each run may be significantly different from each other, plus the content heavily relies on the lectuer's taste.
@@ -76,7 +76,7 @@ All books mentioned below are downloadable at https://zh.z-lib.org/
 
 
 ##### Empirical Finance
->[!summary] Textbook Chapters
+>[!notes] Textbook Chapters
 > Analysis of Financial Time Series, Third Edition (Wiley Series in Probability and Statistics) Ruey S. Tsay, ==Chapter 1 and 3==.
 > The Econometrics of Financial Markets, John Y. Campbell, Andrew W. Lo, A. Craig MacKinlay,  ==Chapter 1,-3, 5==, just a glance will do.
 > Financial Econometrics: Problems, Models, and Methods, Christian Gourieroux and Joann Jasiak; ==Chapter 6==, for volatility models.
